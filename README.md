@@ -4,6 +4,12 @@
 
 [Aplicação no ar](https://nlw-05-gm2o3y6u6-lineavelino.vercel.app/)
 
+## **🖼️ Layout**
+
+- É possível acessar o layout feito pela Rocketseat [clicando nesse link pro Figma](https://www.figma.com/file/cQtKXApFKUMFR0pOOSpVOb).
+
+![Screenshot](.github/Screenshot.png)
+
 ## ✅ To Do List
 
 - [x] Ver últimos lançamentos
@@ -62,9 +68,3 @@ yarn server
 ```bash
 yarn dev
 ```
-
-## **🖼️ Layout**
-
-- É possível acessar o layout feito pela Rocketseat [clicando nesse link pro Figma](https://www.figma.com/file/cQtKXApFKUMFR0pOOSpVOb).
-
-![Screenshot](.github/Screenshot.png)
